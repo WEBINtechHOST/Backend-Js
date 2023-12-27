@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is an backend file with the help of node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "Backend-JS",
+    "nodejs"
+  ],
+  "author": "rohit kumar",
+  "license": "ISC"
+}
